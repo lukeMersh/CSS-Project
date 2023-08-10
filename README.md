@@ -4,4 +4,4 @@ This is my first project for my Junior WordPress developer course. I will be upl
 
 ## 🔗 Links
 
-https://lukemersh.github.io/CSS-Project/
+https://lukemersh.github.io/CSS-Project
